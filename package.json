@@ -1,12 +1,12 @@
 {
-  "id": "GitHub",
-  "name": "GitHub",
-  "version": "1.0.1",
-  "description": "GitHub",
+  "id": "gitlab",
+  "name": "Gitlab",
+  "version": "1.0.0",
+  "description": "Online git implementation",
   "main": "index.js",
-  "author": "Sudhir Ganesan",
+  "author": "Ross <ross.elias@doosan.com>",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://github.com/"
+    "serviceURL": "https://gitlab.com"
   }
 }
